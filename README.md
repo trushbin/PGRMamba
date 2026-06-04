@@ -2,6 +2,10 @@
 
 PGRMamba is a 3D neuron detection (soma detection) inference demo based on the Mamba architecture. It takes 3D morphological image blocks (.tif) as input and outputs detected soma 3D coordinates in CSV and SWC formats.
 
+## 3D-NSD Dataset downloading
+
+Download from OneDrive: https://drive.google.com/file/d/1zm18xSIo4GSOaZ0JtJRVWhoCUbmX9rTc/view?usp=sharing
+
 ## 🔥 Quick Start
 
 ### Install Dependencies
@@ -10,8 +14,12 @@ PGRMamba is a 3D neuron detection (soma detection) inference demo based on the M
 cd /PGRMamba
 pip install -r requirements.txt
 
-# Compile Mamba SSM CUDA kernels (required for first-time use)
-cd mamba && pip install -e . && cd ..
+cd causal-conv1d
+python setup.py install
+
+cd mamba
+python setup.py install
+
 ```
 
 ### Run the Demo
