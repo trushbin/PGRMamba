@@ -1,0 +1,5 @@
+# ninja log v5
+1	5052	1765438919975569100	/media/sda2/czb/Neuron_Detection/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	6313e6febf851f50
+1	10417	1765438925320398000	/media/sda2/czb/Neuron_Detection/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	d548fd8519bc2eef
+0	22149	1765438937056355300	/media/sda2/czb/Neuron_Detection/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	b63ed2918379d179
+1	25196	1765438940067956600	/media/sda2/czb/Neuron_Detection/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	b141ef251b351dd5

@@ -1,0 +1,11 @@
+# ninja log v5
+1	31495	1765439023318020600	/media/sda2/czb/Neuron_Detection/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan.o	1df06311ba9525ba
+3	62911	1765439054688982100	/media/sda2/czb/Neuron_Detection/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_fp32.o	7e666963b2414f21
+3	65191	1765439056959986700	/media/sda2/czb/Neuron_Detection/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_bf16.o	7774537d66a79c8c
+3	67864	1765439059629818100	/media/sda2/czb/Neuron_Detection/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_fp16.o	106e464db4629690
+3	100678	1765439092436441100	/media/sda2/czb/Neuron_Detection/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp32_real.o	d621bd13fbd78f9d
+2	106781	1765439098511484700	/media/sda2/czb/Neuron_Detection/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp16_real.o	ff866a9ac97dcffc
+1	109913	1765439101667448800	/media/sda2/czb/Neuron_Detection/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_bf16_real.o	6ba15eab8221791a
+2	139653	1765439131407365500	/media/sda2/czb/Neuron_Detection/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp32_complex.o	d92668a96fe98050
+2	141527	1765439133249935000	/media/sda2/czb/Neuron_Detection/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp16_complex.o	9e4a5fe013ee0171
+1	146585	1765439138319625500	/media/sda2/czb/Neuron_Detection/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_bf16_complex.o	7ae753936ea84892
