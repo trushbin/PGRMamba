@@ -63,7 +63,6 @@ python demo.py \
 PGRMamba/
 ├── demo.py                  # Main inference script
 ├── feature_extract_net.py   # Network architecture (Model_net)
-├── mackernel.py             # 3D max-pooling helper module
 ├── mamba/                   # Mamba SSM sub-module
 │   ├── mamba.py             # G_SAM / ChanceMamba / Conv3D definitions
 │   └── mamba_ssm/           # Mamba SSM core operators
